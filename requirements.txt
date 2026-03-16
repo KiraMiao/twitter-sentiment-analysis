@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+transformers
+torch
+twarc
+sqlite3
