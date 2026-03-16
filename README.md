@@ -61,3 +61,9 @@ Approximately 900 tweets were collected using the Twitter API and used for senti
 • Improve multilingual tweet classification  
 • Expand dataset size  
 • Build an interactive dashboard for visualization
+
+## Results
+
+The model successfully classified Twitter posts into sentiment categories including positive, neutral, and negative. 
+
+The analysis demonstrated that transformer-based models can effectively identify vaccination sentiment trends in social media data.
